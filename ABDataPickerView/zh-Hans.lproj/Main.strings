@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "2fr-Jx-zhV"; */
+"2fr-Jx-zhV.placeholder" = "time";
+
+/* Class = "UITextField"; placeholder = "date"; ObjectID = "RoX-fb-Qn2"; */
+"RoX-fb-Qn2.placeholder" = "date";
+
+/* Class = "UIButton"; normalTitle = "time"; ObjectID = "b0g-ST-vLy"; */
+"b0g-ST-vLy.normalTitle" = "time";
+
+/* Class = "UIButton"; normalTitle = "date"; ObjectID = "oTo-AC-XGw"; */
+"oTo-AC-XGw.normalTitle" = "date";
